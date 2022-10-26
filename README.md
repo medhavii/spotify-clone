@@ -1,1 +1,1 @@
-"# spotigy-clone" 
+"# spotify-clone" 
